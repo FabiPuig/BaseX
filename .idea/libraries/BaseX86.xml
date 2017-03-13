@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BaseX86">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Llibreries/BaseX86.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
